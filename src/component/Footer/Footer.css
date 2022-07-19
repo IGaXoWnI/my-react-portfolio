@@ -1,0 +1,17 @@
+.footer {
+  height: 50px;
+  width: 100%;
+  margin-top: 25px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer p {
+  color: #fff;
+}
+
+.footer p span {
+  color: blue;
+}
